@@ -111,5 +111,7 @@ I deployed the best AutoML as an AciWebservice that can be accessed via REST API
 - Demo of the deployed  model
 - Demo of a sample request sent to the endpoint and its response
 
+Here is link to the screencast: https://youtu.be/RPxKbKtBBTM
+
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
