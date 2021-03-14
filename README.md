@@ -266,7 +266,9 @@ described here: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-a
 - Demo of the deployed  model
 - Demo of a sample request sent to the endpoint and its response
 
-Here is the link to the screencast: https://youtu.be/RPxKbKtBBTM
+
+Here is link to the screencast: https://youtu.be/RPxKbKtBBTM
+
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
